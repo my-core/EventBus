@@ -1,0 +1,7 @@
+/.vs
+/EventBus.Consumer/obj
+/EventBus.Consumer/bin
+/EventBus.Publisher/obj
+/EventBus.Publisher/bin
+/EventBus.RabbitMQ/obj
+/EventBus.RabbitMQ/bin
