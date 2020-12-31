@@ -1,0 +1,11 @@
+E:\test\EventBusService\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.RabbitMQ.deps.json
+E:\test\EventBusService\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.RabbitMQ.dll
+E:\test\EventBusService\EventBus.RabbitMQ\bin\Debug\net5.0\ref\EventBus.RabbitMQ.dll
+E:\test\EventBusService\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.RabbitMQ.pdb
+E:\test\EventBusService\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\EventBusService\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.AssemblyInfoInputs.cache
+E:\test\EventBusService\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.AssemblyInfo.cs
+E:\test\EventBusService\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+E:\test\EventBusService\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.dll
+E:\test\EventBusService\EventBus.RabbitMQ\obj\Debug\net5.0\ref\EventBus.RabbitMQ.dll
+E:\test\EventBusService\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.pdb
